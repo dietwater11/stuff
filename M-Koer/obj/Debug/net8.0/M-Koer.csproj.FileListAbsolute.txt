@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.AssemblyInfo.cs
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\M-Koer\bin\Debug\net8.0\M-Koer.exe
+C:\Users\opilane\source\repos\M-Koer\bin\Debug\net8.0\M-Koer.deps.json
+C:\Users\opilane\source\repos\M-Koer\bin\Debug\net8.0\M-Koer.runtimeconfig.json
+C:\Users\opilane\source\repos\M-Koer\bin\Debug\net8.0\M-Koer.dll
+C:\Users\opilane\source\repos\M-Koer\bin\Debug\net8.0\M-Koer.pdb
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.dll
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\refint\M-Koer.dll
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.pdb
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\M-Koer.genruntimeconfig.cache
+C:\Users\opilane\source\repos\M-Koer\obj\Debug\net8.0\ref\M-Koer.dll
