@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\bin\Debug\net8.0\Lõputöö.exe
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\bin\Debug\net8.0\Lõputöö.deps.json
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\bin\Debug\net8.0\Lõputöö.runtimeconfig.json
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\bin\Debug\net8.0\Lõputöö.dll
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\bin\Debug\net8.0\Lõputöö.pdb
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.dll
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\refint\Lõputöö.dll
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.pdb
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\Lõputöö.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Lõputöö\Lõputöö\obj\Debug\net8.0\ref\Lõputöö.dll
